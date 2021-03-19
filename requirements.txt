@@ -3,7 +3,7 @@ Babel==2.3.4
 colorama==0.3.7
 docutils==0.12
 imagesize==0.7.0
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 pkginfo==1.2.1
 Pygments==2.1.3
